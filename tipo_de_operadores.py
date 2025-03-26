@@ -4,8 +4,8 @@ operadores aritméticos
 
 '''
 
-# # #operador suma
-# # print(2+6)
+#operador suma
+print(2+6)
 
 # # #operador resta
 # # print(8-4)
