@@ -10,5 +10,6 @@ numero=numero+5
 #incremento
 print("El resultado de la operacion es: ", numero)
 
+#decremento
 numero=numero-3
 print("El resultado de la operacion es: ", numero)
